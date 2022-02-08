@@ -34,16 +34,21 @@ What variable(s) are considered the target(s) for your model?
 What variable(s) are considered to be the features for your model?
 
   •	ASK_AMT, CLASSIFICATION , and APPLICATION_TYPE
+  
+  ![app and class](https://user-images.githubusercontent.com/88864493/152919063-c196fbd7-a3c0-4070-95a0-fc8d34364c76.png)
 
 What variable(s) are neither targets nor features, and should be removed from the input data?
 
   •	“EIN" and  "NAME"
+  
+  ![dropping](https://user-images.githubusercontent.com/88864493/152919099-6ff148f2-ca44-4b95-bf74-bfff13bf720c.png)
 
 ### Compiling, Training, and Evaluating the Model
 _________
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
-  •	
+  •	![number](https://user-images.githubusercontent.com/88864493/152918988-4dd10fe7-66a4-4bef-9ef6-6eaafc32d4c4.png)
+
 
 Were you able to achieve the target model performance?
 
